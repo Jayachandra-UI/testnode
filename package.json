@@ -1,0 +1,15 @@
+{
+  "name": "about-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appserver.js",
+  "scripts": {
+    "start":"node appserver.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
